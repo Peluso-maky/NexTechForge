@@ -1,0 +1,200 @@
+!DOCTYPE html>
+<html>
+    <head>
+        <title>Proyecto: Libro de Recetas</title>
+        <meta charset="utf-8">
+        <style>
+
+            }
+            h1, h2 {
+                color:green;
+            }
+            }
+            a {
+                color:red;
+            }
+            body{
+                background-color:beige;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Mi Libro de Recetas</h1>
+        <h2>Contenido:</h2>
+        
+        <ol>
+            <li><a href="#espagueti-carbonara">Espagueti Carbonara</a></li>
+            <li><a href="#galletas-chispas-chocolate">Galletas con Chispas de Chocolate</a></li>
+            <li><a href="#ensalada-cesar">Ensalada César</a></li>
+        </ol>
+        
+        <h2 id="espagueti-carbonara">Espagueti Carbonara</h2>
+        
+        <ul>
+            <li>Tiempo: 30 minutos</li>
+            <li>Porciones: 4</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredientes</th>
+                    <th>Cantidad</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Espagueti</td>
+                    <td>400g</td>
+                </tr>
+                <tr>
+                    <td>Panceta</td>
+                    <td>150g</td>
+                </tr>
+                <tr>
+                    <td>Huevos</td>
+                    <td>4</td>
+                </tr>
+                <tr>
+                    <td>Queso parmesano</td>
+                    <td>50g</td>
+                </tr>
+                <tr>
+                    <td>Pimienta negra</td>
+                    <td>Al gusto</td>
+                </tr>
+                <tr>
+                    <td>Sal</td>
+                    <td>Al gusto</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Paso 1:</strong> Cocina el espagueti según las instrucciones del paquete. Reserva un poco del agua de la pasta.</p>
+        <p><strong>Paso 2:</strong> En una sartén grande, cocina la panceta hasta que esté crujiente.</p>
+        <p><strong>Paso 3:</strong> Bate los huevos en un bol, luego añade el queso parmesano rallado y mezcla bien.</p>
+        <p><strong>Paso 4:</strong> Escurre el espagueti y agrégalo a la sartén con la panceta. Retira del fuego.</p>
+        <p><strong>Paso 5:</strong> Vierte rápidamente la mezcla de huevo y queso sobre la pasta, removiendo continuamente para crear una salsa cremosa. Añade un poco del agua de la pasta reservada si es necesario.</p>
+        <p><strong>Paso 6:</strong> Sazona con sal y pimienta negra al gusto. Sirve inmediatamente.</p>
+
+        <h2 id="galletas-chispas-chocolate">Galletas con Chispas de Chocolate</h2>
+        
+        <ul>
+            <li>Tiempo: 45 minutos</li>
+            <li>Porciones: 24 galletas</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredientes</th>
+                    <th>Cantidad</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Harina de trigo</td>
+                    <td>2 1/4 tazas</td>
+                </tr>
+                <tr>
+                    <td>Bicarbonato de sodio</td>
+                    <td>1 cucharadita</td>
+                </tr>
+                <tr>
+                    <td>Sal</td>
+                    <td>1/2 cucharadita</td>
+                </tr>
+                <tr>
+                    <td>Mantequilla</td>
+                    <td>1 taza (2 barras)</td>
+                </tr>
+                <tr>
+                    <td>Azúcar granulada</td>
+                    <td>3/4 taza</td>
+                </tr>
+                <tr>
+                    <td>Azúcar morena</td>
+                    <td>3/4 taza</td>
+                </tr>
+                <tr>
+                    <td>Extracto de vainilla</td>
+                    <td>1 cucharadita</td>
+                </tr>
+                <tr>
+                    <td>Huevos</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>Chispas de chocolate</td>
+                    <td>2 tazas</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Paso 1:</strong> Precalienta el horno a 375°F (190°C).</p>
+        <p><strong>Paso 2:</strong> En un bol pequeño, combina la harina, el bicarbonato de sodio y la sal.</p>
+        <p><strong>Paso 3:</strong> En un bol grande, bate la mantequilla, el azúcar granulada, el azúcar morena y el extracto de vainilla hasta obtener una mezcla cremosa.</p>
+        <p><strong>Paso 4:</strong> Añade los huevos uno a uno, batiendo bien después de cada adición. Añade gradualmente la mezcla de harina. Incorpora las chispas de chocolate.</p>
+        <p><strong>Paso 5:</strong> Coloca cucharadas redondeadas de masa en bandejas para hornear sin engrasar.</p>
+        <p><strong>Paso 6:</strong> Hornea de 9 a 11 minutos o hasta que estén doradas. Deja enfriar en las bandejas durante 2 minutos; luego transfiérelas a rejillas para enfriar completamente.</p>
+
+        <h2 id="ensalada-cesar">Ensalada César</h2>
+        
+        <ul>
+            <li>Tiempo: 20 minutos</li>
+            <li>Porciones: 4</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredientes</th>
+                    <th>Cantidad</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Lechuga romana</td>
+                    <td>1 cabeza grande</td>
+                </tr>
+                <tr>
+                    <td>Crutones</td>
+                    <td>1 taza</td>
+                </tr>
+                <tr>
+                    <td>Queso parmesano</td>
+                    <td>1/2 taza, rallado</td>
+                </tr>
+                <tr>
+                    <td>Aderezo César</td>
+                    <td>1/2 taza</td>
+                </tr>
+                <tr>
+                    <td>Jugo de limón</td>
+                    <td>2 cucharadas</td>
+                </tr>
+                <tr>
+                    <td>Aceite de oliva</td>
+                    <td>1/4 taza</td>
+                </tr>
+                <tr>
+                    <td>Ajo</td>
+                    <td>1 diente, picado</td>
+                </tr>
+                <tr>
+                    <td>Sal</td>
+                    <td>Al gusto</td>
+                </tr>
+                <tr>
+                    <td>Pimienta negra</td>
+                    <td>Al gusto</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Paso 1:</strong> Pica la lechuga romana y colócala en un tazón grande para ensaladas.</p>
+        <p><strong>Paso 2:</strong> Añade los crutones y el queso parmesano rallado.</p>
+        <p><strong>Paso 3:</strong> En un bol pequeño, mezcla el aderezo César, el jugo de limón, el aceite de oliva y el ajo picado.</p>
+        
+    </body>
+    </html>
